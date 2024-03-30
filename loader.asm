@@ -1,5 +1,5 @@
 .data
-string: .asciiz "Professor Kyoungwoo Lee is Awesome"
+string: .asciiz "foo"
 string_end:
 
 .text
